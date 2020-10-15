@@ -1,0 +1,137 @@
+body{
+	margin:0px;
+	text-align:center;
+	font-family: 'Merriweather', serif; 
+	color:#40514E;
+}
+h1{
+	font-size:5.625rem;
+	color:#66BFBF;
+	width:45%;
+	margin:50px auto 0 auto;
+	font-family: 'Sacramento', cursive;
+}
+h2{
+	color:#66BFBF;
+	font-size:2.5rem;
+	font-family: 'Montserrat', sans-serif;
+}
+h3{
+    color:#11999E;
+	font-size:1.6rem;
+	font-family: 'Montserrat', sans-serif;
+	margin:40px auto;
+}
+p{
+	font-size:1em;
+	margin:0px;
+	line-height:2;
+}
+hr{
+	border-style:dotted none none none;
+	border-width:10px;
+	border-color:#EAF6F6;
+	width:7%;
+	margin:80px auto;
+}
+a{
+	color:#11999E;
+	font-family: 'Montserrat', sans-serif;
+}
+.profile{
+	width:50%;
+	margin:50px auto 50px auto;
+}
+.top-container{
+	background-color:#eaf6f6;
+	position:relative;
+	padding-top:8%;
+}
+.middle-container{
+	padding:80px 0;
+}
+.profile-image{
+	width:28%;
+	
+}
+.skill-row-image{
+	width:25%;
+	float:left;
+	padding-right:30px;
+}
+.second{
+	float:right;
+	padding-left:30px;
+}
+.skill-row{
+	width:50%;
+	margin:100px auto 100px auto;
+	text-align:left;
+	line-height:2;
+}
+
+.buttom-cloud{
+	position:absolute;
+	left:29%;
+	top:56%;
+}
+.top-cloud{
+	position:absolute;
+	top:10%;
+	right:28%;
+}
+.link{
+	text-decoration:none;
+	color:#11999E;
+	margin:20px;
+	font-weight:500;
+}
+.link:hover{
+	color:#eaf6f6;
+}
+
+.second-heading{
+	font-weight:normal;
+}
+.middle-para{
+	color:#40514e;
+}
+.kalam-way{
+	padding-bottom:10px;
+	font-family: 'Sacramento', cursive;
+	font-size:3.125em;
+	color:#28df99;
+}
+.kalam-sign{
+	float:right;
+	color:#66BFBF;
+	font-weight:bold;
+}
+.get-in-touch{
+	width:60%;
+	margin:6.25em auto 5em auto;
+}
+.contact-me{
+	color:white;
+	background-color:#11999E;
+	margin:0 auto 3.125em auto;
+	width:13%;
+	font-size:1.5em;
+	padding:10px;
+	border-radius:10px;
+	font-family: 'Montserrat', sans-serif;
+	font-weight:500;
+	cursor:pointer;
+}
+.contact-me:hover{
+	background-color:#2bc4ad;
+}
+.copy-right{
+	margin:0.9em;
+	color:#eaf6f6;
+	padding:20px 0 ;
+}
+.contact-way{
+	background-color:#66bfbf;
+	padding:2.5em;
+}
